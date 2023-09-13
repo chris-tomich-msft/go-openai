@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/sashabaranov/go-openai/internal/test"
+	"github.com/chris-tomich-msft/go-openai/internal/test"
 )
 
 var errTestRequestBuilderFailed = errors.New("test request builder failed")
